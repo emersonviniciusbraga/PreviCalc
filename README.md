@@ -21,6 +21,15 @@ Esse projeto foi desenvolvido na matéria de Fundamento de Cálculo do curso de 
     <img style="text-align: center;" src="https://github.com/emersonviniciusbraga/PreviCalc/blob/master/assets/img/tela%201.PNG">
 </div><br>
 
+#### Aposentadoria Comum
+
+<ul>
+    <li>Serviço Público</li>
+</ul>
+
+<div style="display: inline_block">
+    <img style="text-align: center;" src="https://github.com/emersonviniciusbraga/PreviCalc/blob/master/assets/img/tela%201.PNG">
+</div><br>
 
 <p style="text-align: justify;">Após escolher a opção desejada vai aparecer uma das seguintes páginas, cada opção tem uma página diferente com suas peculiaridades.</p>
 
