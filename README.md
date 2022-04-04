@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido na matéria de Fundamento de Cálculo do curso de 
 <p style="text-align: justify;">A aplicação é de simples uso, basta o usuário digitar o link que deseja criar o código e clicar em gerar.</p>
 
 <div style="display: inline_block">
-    <img style="text-align: center;" src="">
+    <img style="text-align: center;" src="https://github.com/emersonviniciusbraga/PreviCalc/blob/master/assets/img/tela%201.PNG">
 </div><br>
 
 <p style="text-align: justify;">Após clicar em "Gerar QRcode" vai aparece uma página onde vai mostrar uma imagem do código, e logo abaixo o botão de fazer download. É só baixar e ser feliz!</p>
