@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido na matéria de Fundamento de Cálculo do curso de 
 </ul>
 
 ## Aplicação Funcionando
-<p style="text-align: justify;">A aplicação é de simples uso, basta o usuário digitar o link que deseja criar o código e clicar em gerar.</p>
+<p style="text-align: justify;">A aplicação funciona da seguinte maneira, na pagina inicial vai mostrar dois tipos de aposentadorias e suas subdivisões, no caso da Aposentadoria Comum. O usuário vai escolher a que desejar.</p>
 
 <div style="display: inline_block">
     <img style="text-align: center;" src="https://github.com/emersonviniciusbraga/PreviCalc/blob/master/assets/img/tela%201.PNG">
