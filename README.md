@@ -1,8 +1,8 @@
 # PreviCalc
 
 <p style="text-align: justify;">
-Esse projeto foi desenvolvido na materia de Fundamento de Cálculo do curso de Ciência da Computação da UFERSA. A ideia era desenvolver alguma aplicação sobre um contéudo estudado na materia.<br>
-O projeto teve como objetivo criar um sistema web que possa ajudar aqueles que tem dúvidas sobre a aposentadoria e ajudá-los a calcular quanto falta para isso.</p>
+Esse projeto foi desenvolvido na materia de Fundamento de Cálculo do curso de Ciência da Computação da UFERSA. A ideia era desenvolver alguma aplicação sobre um contéudo estudado na materia.</p>
+<p style="text-align: justify;">O projeto teve como objetivo criar um sistema web que possa ajudar aqueles que tem dúvidas sobre a aposentadoria e ajudá-los a calcular quanto falta para isso.</p>
 
 ## Tecnologias Utilizadas
 
