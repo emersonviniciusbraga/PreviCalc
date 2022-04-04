@@ -15,14 +15,17 @@ Esse projeto foi desenvolvido na matéria de Fundamento de Cálculo do curso de 
 </ul>
 
 ## Aplicação Funcionando
-<p style="text-align: justify;">A aplicação funciona da seguinte maneira, na pagina inicial vai mostrar dois tipos de aposentadorias e suas subdivisões, no caso da Aposentadoria Comum. O usuário vai escolher a que desejar.</p>
+<p style="text-align: justify;">A aplicação funciona da seguinte maneira, na página inicial vai mostrar dois tipos de aposentadorias e suas subdivisões, no caso da Aposentadoria Comum. O usuário vai escolher a que desejar.</p>
 
 <div style="display: inline_block">
     <img style="text-align: center;" src="https://github.com/emersonviniciusbraga/PreviCalc/blob/master/assets/img/tela%201.PNG">
 </div><br>
 
-<p style="text-align: justify;">Após clicar em "Gerar QRcode" vai aparece uma página onde vai mostrar uma imagem do código, e logo abaixo o botão de fazer download. É só baixar e ser feliz!</p>
+
+<p style="text-align: justify;">Após escolher a opção desejada vai aparecer uma das seguintes páginas, cada opção tem uma página diferente com suas peculiaridades.</p>
 
 <div style="display: inline_block">
     <img style="text-align: center;" src="">
 </div><br>
+
+<p style="text-align: justify;">Além disso, ainda tem uma pequena calculadora que mostra quanto é descontado do seu sálario para contribuir com a previdência social de acordo com o valor do seu sálario.</p>
