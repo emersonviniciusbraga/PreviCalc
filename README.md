@@ -19,11 +19,11 @@ Esse projeto foi desenvolvido na matéria de Fundamento de Cálculo do curso de 
 
 <div style="display: inline_block">
     <img style="text-align: center;" src="https://github.com/emersonviniciusbraga/PreviCalc/blob/master/assets/img/tela%201.PNG">
-</div>
+</div><br>
 
 <p style="text-align: justify;">Após escolher a opção desejada vai aparecer uma das seguintes páginas, cada opção tem uma página diferente com suas peculiaridades.</p>
 
-#### Aposentadoria Comum
+### Aposentadoria Comum
 
 <ul>
     <li>Serviço Público</li>
@@ -41,7 +41,7 @@ Esse projeto foi desenvolvido na matéria de Fundamento de Cálculo do curso de 
     <img style="text-align: center;" src="https://github.com/emersonviniciusbraga/PreviCalc/blob/master/assets/img/tela%203.PNG">
 </div><br>
 
-#### Aposentadoria Especial
+### Aposentadoria Especial
 
 <div style="display: inline_block">
     <img style="text-align: center;" src="https://github.com/emersonviniciusbraga/PreviCalc/blob/master/assets/img/tela%204.PNG">
@@ -49,7 +49,7 @@ Esse projeto foi desenvolvido na matéria de Fundamento de Cálculo do curso de 
 
 ### Resultado do Cálculo
 
-<p style="text-align: justify;">Esse página mostra o resultado do cálculo, mostrando quanto tempo de contribuição ainda falta para o usuário.</p>
+<p style="text-align: justify;">Essa página mostra o resultado do cálculo, mostrando quanto tempo de contribuição ainda falta para o usuário.</p>
 
 <p style="text-align: justify;">Além disso, ainda tem uma pequena calculadora que mostra quanto é descontado do seu sálario para contribuir com a previdência social de acordo com o valor do seu sálario.</p>
 
