@@ -1,8 +1,11 @@
 # [PreviCalc](https://docs.google.com/document/d/1nvCaUKzO-kmpwFGqJa3EI3isXS7GsZl3/edit?usp=sharing&ouid=106770657500140513281&rtpof=true&sd=true)
 
 <p style="text-align: justify;">
-Esse projeto foi desenvolvido na matéria de Fundamento de Cálculo do curso de Ciência da Computação da UFERSA ([Trabalho escrito](https://docs.google.com/document/d/1nvCaUKzO-kmpwFGqJa3EI3isXS7GsZl3/edit?usp=sharing&ouid=106770657500140513281&rtpof=true&sd=true). A ideia era desenvolver alguma aplicação sobre um conteúdo estudado na matéria.</p>
+Esse projeto foi desenvolvido na matéria de Fundamento de Cálculo do curso de Ciência da Computação da UFERSA. A ideia era desenvolver alguma aplicação sobre um conteúdo estudado na matéria.</p>
 <p style="text-align: justify;">O projeto teve como objetivo criar um sistema web que possa ajudar aqueles que tem dúvidas sobre a aposentadoria e ajudá-los a calcular quanto falta para isso.</p>
+
+## Trabalho Escrito
+[Clique aqui](https://docs.google.com/document/d/1nvCaUKzO-kmpwFGqJa3EI3isXS7GsZl3/edit?usp=sharing&ouid=106770657500140513281&rtpof=true&sd=true)
 
 ## Tecnologias Utilizadas
 
